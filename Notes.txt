@@ -1,0 +1,2 @@
+common - taken from https://github.com/llde/Oblivion-Script-Extender commit 275c07a
+obse - taken from https://github.com/llde/Oblivion-Script-Extender commit 275c07a
