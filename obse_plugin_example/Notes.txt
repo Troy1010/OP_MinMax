@@ -1,0 +1,1 @@
+Make sure to open and check UserSettings.props to fix any broken paths.

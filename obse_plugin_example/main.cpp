@@ -435,7 +435,7 @@ bool OBSEPlugin_Query(const OBSEInterface * obse, PluginInfo * info)
 		if(obse->obseVersion < OBSE_VERSION_INTEGER)
 		{
 			_ERROR("OBSE version too old (got %08X expected at least %08X)", obse->obseVersion, OBSE_VERSION_INTEGER);
-			//TM
+			//TM For some reason, obse->obseVersion gives 15 when it should give 21
 			//return false;
 		}
 
