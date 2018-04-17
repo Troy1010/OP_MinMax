@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "obse_plugin_example", "obse_plugin_example.vcxproj", "{D4DDA734-7E93-4581-8F82-32BB738F69FE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OP_MinMax", "OP_MinMax.vcxproj", "{D4DDA734-7E93-4581-8F82-32BB738F69FE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "common", "..\common\common.vcxproj", "{20C6411C-596F-4B85-BE4E-8BC91F59D8A6}"
 EndProject
